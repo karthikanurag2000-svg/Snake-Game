@@ -1,0 +1,6 @@
+{
+  "name": "Ouroboros Arcade: Snake Evolution",
+  "description": "A high-performance modern Snake arcade with classic and maze modes, AI rival battles, power-ups, customizable themes, and procedural audio synthesis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
